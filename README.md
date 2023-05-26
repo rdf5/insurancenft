@@ -1,4 +1,4 @@
 # Risk Assessment of Digital Assets - Insurance Applications in Crypto and NFTs
 
 
-This Master's thesis has been written in collaboration with Trygg-Hansa through the Faculty of Egnineering at Lund University. The repository contains the different scripts used to develop the pricing model and to validate it as well as the script used to collect the data and store it in a local SQL data table. It is also included the PDF with the findings made and the methodology followed.
+This Master's thesis was written in collaboration with Trygg-Hansa through the Faculty of Egnineering at Lund University. The repository contains the different scripts used to develop the pricing model and to validate it as well as the script used to collect the data and store it in a local SQL data table. It is also included the PDF with the findings made and the methodology followed.
